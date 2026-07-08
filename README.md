@@ -136,7 +136,7 @@ Continuous learning  → I keep improving Selenium, API testing, Playwright, and
 |---|---|---|
 | **Portfolio Website** | Professional profile, experience, skills, and projects | [Live](https://mohammed-alsaif-portfolio.lovable.app/) |
 | **QualityPilot Store** | Live demo application created for automation practice | [Live](https://qualitypilot-store.lovable.app/) |
-| **QualityPilot Automation Framework** | Selenium Java automation framework for the live demo app | In Progress |
+| **QualityPilot Automation Framework** | Selenium Java automation framework for the live demo app | [Framework](https://github.com/mhmdalsaif1999/qualitypilot-automation-framework.git) |
 
 ---
 
